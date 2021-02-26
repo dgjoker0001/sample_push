@@ -1,0 +1,21 @@
+
+3-4 commands
+
+repo -> storage container
+
+create a new repo on chrome
+
+git init 
+create a new local repository at my laptop not at server
+
+git status 
+red-> not added
+green-> added
+
+git add -A             OR git add filenames     (separated by space)
+add all files
+
+git commit -m "new files"
+
+git push origin master
+
